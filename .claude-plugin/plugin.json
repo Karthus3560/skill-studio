@@ -1,0 +1,14 @@
+{
+  "name": "skill-studio",
+  "version": "2.0.0",
+  "description": "Skill Studio by Ghaith Saad Jawad: a warm, Claude-themed skill browser beside the chat. Search, filter, favourite and add skills to the prompt in one click.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ghaith Saad Jawad",
+    "url": "https://github.com/Karthus3560"
+  },
+  "homepage": "https://github.com/Karthus3560/skill-studio",
+  "repository": "https://github.com/Karthus3560/skill-studio",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-code-mods", "claude-skills", "skills", "skill-browser", "productivity"]
+}

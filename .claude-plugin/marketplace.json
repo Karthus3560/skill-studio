@@ -1,0 +1,13 @@
+{
+  "name": "skill-studio",
+  "owner": { "name": "Ghaith Saad Jawad", "url": "https://github.com/Karthus3560" },
+  "metadata": { "description": "Skill Studio: every Claude Code skill you own, one click away." },
+  "plugins": [
+    {
+      "name": "skill-studio",
+      "source": "./",
+      "description": "A warm, Claude-themed skill browser beside the chat: search, filter, favourite and add skills to the prompt in one click.",
+      "version": "2.0.0"
+    }
+  ]
+}
